@@ -12,13 +12,13 @@ import glide7 from "@/assets/GlideConnex/img7.png";
 import glide8 from "@/assets/GlideConnex/img8.png";
 import glide9 from "@/assets/GlideConnex/img9.png";
 
-import cyber1 from "@/assets/CyberIntel/cyber1.png";
+import cyber1 from "@/assets/CyberIntel/Cyber1.png";
 import cyber2 from "@/assets/CyberIntel/cyber2.png";
 import cyber3 from "@/assets/CyberIntel/cyber3.png";
 import cyber4 from "@/assets/CyberIntel/cyber4.png";
 import cyber5 from "@/assets/CyberIntel/cyber5.png";
 
-import video from "@/assets/video.mp4";
+import video from "@/assets/Video.mp4";
 
 type Project = {
   title: string;
